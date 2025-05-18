@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="YfaS14DLiJrGgnAMJ1IF">
-    <mxGraphModel>
+    <mxGraphModel dx="2322" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-1" value="门店" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="150" width="560" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-2" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-170" width="460" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-3" value="zerorpc server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 接收每场结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-130" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-4" value="zerorpc client&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-130" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-10" value="房间1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="475" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-5" value="zerorpc server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="505" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-6" value="zerorpc client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="100" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-7" value="门店控制中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="190" width="430" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-8" value="zerorpc server&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1 开场&lt;/div&gt;&lt;div&gt;2 跳关&lt;/div&gt;&lt;div&gt;3 暂停&lt;/div&gt;&lt;div&gt;4 继续&lt;/div&gt;&lt;div&gt;5 结束&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-37" y="215" width="117" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-9" value="zerorpc client&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;上传每场结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="215" width="140" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="mimV_fDeBHLYAlc3DsNT-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;房间2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="120" height="245" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
